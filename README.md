@@ -7,3 +7,6 @@ I'm Heath, an American engineer living and working in Berlin Germany 🍺
 <a href="https://www.instagram.com/heathlyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Heathlyy-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:heath.lee.ee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-heath.lee.ee@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.thingiverse.com/heathly/designs"><img alt="Thingiverse" src="https://img.shields.io/badge/thingiverse-heathly-blue?style=flat-square&logo=thingiverse"></a>
+<br>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theHeathLee=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
