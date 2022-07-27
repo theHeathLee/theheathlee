@@ -10,3 +10,4 @@ I'm Heath, an American engineer living and working in Berlin Germany 🍺
 <br>
 <br>
 [![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=theheathlee)](https://github.com/anuraghazra/github-readme-stats)
+[![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=theheathlee&theme=dracula&show_icons=true&count_private=true)](https://github.com/hanhdt/hanhdt/blob/main/README.md)
