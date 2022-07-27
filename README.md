@@ -8,4 +8,6 @@ I'm Heath, an American engineer living and working in Berlin Germany 🍺
 <a href="mailto:heath.lee.ee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-heath.lee.ee@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.thingiverse.com/heathly/designs"><img alt="Thingiverse" src="https://img.shields.io/badge/thingiverse-heathly-blue?style=flat-square&logo=thingiverse"></a>
 
+<br>
+
 [![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=theheathlee&theme=blueberry)](https://github.com/theheathlee/github-readme-stats)
