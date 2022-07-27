@@ -9,4 +9,4 @@ I'm Heath, an American engineer living and working in Berlin Germany 🍺
 <a href="https://www.thingiverse.com/heathly/designs"><img alt="Thingiverse" src="https://img.shields.io/badge/thingiverse-heathly-blue?style=flat-square&logo=thingiverse"></a>
 <br>
 <br>
-[![Heaths GitHub stats](https://github-readme-stats.vercel.app/api?username=theHeathLee)](https://github.com/theHeathLee/github-readme-stats)
+[![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=theheathlee)](https://github.com/anuraghazra/github-readme-stats)
