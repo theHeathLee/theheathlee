@@ -3,7 +3,8 @@
 I'm Heath, an American engineer living and working in Berlin Germany 🍺 
 <br>
 <br>
-[![Buy Me a Beer](https://img.shields.io/badge/Buy%20Me%20a%20Beer-%F0%9F%8D%BA-yellow?style=for-the-badge)](https://ko-fi.com/heathlee)
+
+[![Buy Me a Beer](https://img.shields.io/badge/🍺-Buy%20Me%20a%20Beer-222?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOURUSERNAME)
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-donate-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/heathlee)
 
