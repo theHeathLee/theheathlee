@@ -14,6 +14,3 @@ I'm Heath, an American engineer living and working in Berlin Germany 🍺
 
 
 [![Buy Me a Beer](https://img.shields.io/badge/Buy%20Me%20a%20Beer-%F0%9F%8D%BA-yellow?style=for-the-badge)](https://ko-fi.com/heathlee)
-
-<br>
-<br>
