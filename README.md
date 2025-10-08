@@ -3,6 +3,11 @@
 I'm Heath, an American engineer living and working in Berlin Germany 🍺 
 <br>
 <br>
+<p align="center">
+  <a href="https://ko-fi.com/YOURUSERNAME" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-donate-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/heathlee)
 
