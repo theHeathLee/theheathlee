@@ -3,7 +3,9 @@
 I'm Heath, an American engineer living and working in Berlin Germany 🍺 
 <br>
 <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/heathlee)
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-donate-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/heathlee)
+
 <a href="https://theheathlee.github.io/"><img alt="Website" src="https://img.shields.io/badge/me-HeathLee-blue?style=flat-square&logo=me"></a>
 <a href="https://www.linkedin.com/in/heathlee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-HeathLee-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/heathlyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Heathlyy-blue?style=flat-square&logo=instagram"></a>
