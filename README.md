@@ -1,7 +1,13 @@
 ### Hi there 👋
 <br>
 I'm Heath, an American engineer living and working in Berlin Germany 🍺 
+
 <br>
+
+<del>Im a seasoned embedded developler working on anything from ebikes to cars</del> 
+
+I guess I can do anything with AI
+
 <br>
 
 
