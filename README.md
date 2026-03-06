@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Heath+%F0%9F%91%8B;American+engineer+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;From+e-bikes+to+LLMs+%F0%9F%A4%96;I+guess+I+can+do+anything+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Heath+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/website-theheathlee.github.io-58A6FF?style=flat-square&logo=githubpages&logoColor=white)](https://theheathlee.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HeathLee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heathlee/)
