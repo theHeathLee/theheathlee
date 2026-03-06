@@ -15,16 +15,13 @@
 
 ### About me
 
-- 🔌 Seasoned embedded engineer — worked on everything from **e-bikes to cars**
-- 🤖 Now building whatever I want with **AI**
+- 🧑‍💻 Progressing Devops Engineer
+- 🔌 Seasoned embedded engineer — worked on everything from e-bikes to electric cars
+- 🤖 Now building whatever I want with AI
 - 🇩🇪 Based in **Berlin, Germany**
 - 🖨️ Occasional 3D printing enthusiast on [Printables](https://www.printables.com/@HeathLee_853318)
+- ⚙️ Co-founder [Repair Cafe Friedrichshain](https://repaircafe-friedrichshain.de/)
 
 ---
 
-<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theheathlee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)](https://github.com/theheathlee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theheathlee&layout=compact&theme=github_dark&hide_border=true)](https://github.com/theheathlee)
-
-</div>
