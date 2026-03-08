@@ -20,7 +20,7 @@
 - 🤖 Now building whatever I want with AI
 - 🇩🇪 Based in **Berlin, Germany**
 - 🖨️ Occasional 3D printing enthusiast on [Printables](https://www.printables.com/@HeathLee_853318)
-- ⚙️ Co-founder [Repair Cafe Friedrichshain](https://repaircafe-friedrichshain.de/)
+- ⚙️ Co-founder/Volunteer [Repair Cafe Friedrichshain](https://repaircafe-friedrichshain.de/)
 
 ---
 
